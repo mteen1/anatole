@@ -1,13 +1,5 @@
 @import url('vazirmatn/Vazirmatn-font-face.css');
 
-body {
-    font-family: 'Vazirmatn', sans-serif;
-}
-
-.sidebar__introduction-title {
-    text-transform:uppercase;
-    font-weight:700;
-    letter-spacing:0px;
-    line-height:1;
-    margin:1em
+html[lang='fa'].body{
+    font-family: Vazirmatn;
 }
