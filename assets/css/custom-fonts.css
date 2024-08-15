@@ -1,5 +1,12 @@
-@import url('vazirmatn/Vazirmatn-font-face.css');
 
-html[lang='fa'].body{
-    font-family: Vazirmatn;
+html[lang='fa'] body{
+    font-family: "Vazirmatn" !important;
+    letter-spacing: normal !important;
 }
+html[lang='fa'] .post{
+    letter-spacing: 0 !important;
+}
+
+
+
+
