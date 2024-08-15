@@ -1,12 +1,9 @@
-
-html[lang='fa'] body{
+/* Apply to body and all post content */
+html[lang='fa'] body,
+html[lang='fa'] .post,
+html[lang='fa'] .post__content h1,
+html[lang='fa'] .post__content h2,
+html[lang='fa'] .post__content h3 {
     font-family: "Vazirmatn" !important;
-    letter-spacing: normal !important;
-}
-html[lang='fa'] .post{
     letter-spacing: 0 !important;
 }
-
-
-
-
