@@ -7,3 +7,7 @@ html[lang='fa'] .post__content h3 {
     font-family: "Vazirmatn" !important;
     letter-spacing: 0 !important;
 }
+
+html[lang='fa'] .post__content p{
+    font-size: 17px !important;
+}
